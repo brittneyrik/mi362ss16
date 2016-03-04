@@ -1,0 +1,19 @@
+body {
+	
+	color: blue;
+	
+	background-image: url("geometry2.png");
+	background-repeat:repeat;
+	
+	img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+	@charset "utf-8";
+.courier {
+	font-family: Courier;
+	color: #005CB9;
+}
+
+}
