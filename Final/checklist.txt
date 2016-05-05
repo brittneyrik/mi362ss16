@@ -1,0 +1,10 @@
+100 - Hosted on Heroku - Hosted.
+100 - Custom domain - chickenkiller
+100 - Instructor discretion
+300 - 4 complete HTML pages with content - Home, Fall, Winter, Spring, Summer
+200 - Custom CSS or Bootstrap - Used a bootstrap CSS
+50 - At least 2 custom images - 2 drawings at the bottom of HOME page
+50 - Use a third party font icon - Used them for my nav bar
+
+(I am aware that I am missing 100 points. Deploying my code to my heroku
+app took much longer that I had imagined it would.)
